@@ -1,0 +1,12 @@
+#contenido {
+    background-color: #95e9e9;
+    height: 19.8em;
+    margin-left: 0.1em;
+    width: 100%;
+    color: black;
+    display: flex;
+    align-items: center;
+}
+h3 {
+    font-weight: 350;
+}

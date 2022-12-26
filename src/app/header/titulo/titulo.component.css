@@ -1,0 +1,11 @@
+header {
+    width: 100%;
+    background-color: #bae71f;
+    padding-top: 5px;
+    height: 7.8em;
+    border: solid rgba(128, 128, 128, 0.541) 1px;
+
+}
+h3 {
+    font-weight: 350;
+}
